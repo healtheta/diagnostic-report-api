@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/heal-lk/heal-lk-resource-server" value="PREVIEW" />
+        <entry key="C:/heal-lk/patient-api" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="C:/healtheta/adverse-event-api" value="PREVIEW" />
+        <entry key="C:/healtheta/allergy-api" value="PREVIEW" />
+        <entry key="C:/healtheta/appointment-api" value="PREVIEW" />
+        <entry key="C:/healtheta/condition-api" value="PREVIEW" />
+        <entry key="C:/healtheta/edge-server" value="PREVIEW" />
+        <entry key="C:/healtheta/encounter-api" value="PREVIEW" />
+        <entry key="C:/healtheta/gs-routing-and-filtering/complete" value="PREVIEW" />
+        <entry key="C:/healtheta/gs-routing-and-filtering/initial/gateway" value="PREVIEW" />
+        <entry key="C:/healtheta/medication-api" value="PREVIEW" />
+        <entry key="C:/healtheta/observation-api" value="PREVIEW" />
+        <entry key="C:/healtheta/organization-api" value="PREVIEW" />
+        <entry key="C:/healtheta/patient-api" value="PREVIEW" />
+        <entry key="C:/healtheta/practitioner-api" value="PREVIEW" />
+        <entry key="C:/healtheta/schedule-api" value="PREVIEW" />
+        <entry key="C:/healtheta/slot-api" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="141" />
+    <option name="y" value="47" />
+    <option name="width" value="1075" />
+    <option name="height" value="728" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
